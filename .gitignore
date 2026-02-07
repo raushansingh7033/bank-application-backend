@@ -31,3 +31,28 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Environment files
+.env
+
+# Spring Boot config (DO NOT COMMIT REAL CONFIG)
+application.yml
+application.yaml
+application.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Build output
+target/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
